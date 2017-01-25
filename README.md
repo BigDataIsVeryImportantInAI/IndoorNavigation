@@ -29,7 +29,7 @@
 
 >* BTLE Scan을 반복하여 Beacon의 ScanRecode값을 받아 Major와 Minor 값 파싱한다.
 
->![스캔 코드](/image/code1.png)
+>![스캔 코드](/image/code1.bmp)
 
 >![데이터 구조](/image/image1.png)
 
@@ -66,5 +66,7 @@
 >![실행화면](/image/res3.png)
 >![실행화면](/image/res4.png)
 >![실행화면](/image/res5.png)
->![실행화면](/image/system1.png)
->![실행화면](/image/system2.png)
+
+>* 전체 구조
+>![전체구조](/image/system1.png)
+>![전체구조](/image/system2.png)
