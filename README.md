@@ -67,6 +67,7 @@
 >![실행화면](/image/res4.png)
 >![실행화면](/image/res5.png)
 
->* 전체 구조
+----
+## 구조
 >![전체구조](/image/system1.png)
 >![전체구조](/image/system2.png)
